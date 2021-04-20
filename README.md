@@ -9,9 +9,7 @@ Hope you find it useful!
 
 #### ~ Offxec & Riot Security Team
 ---
-## Examples:
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
+## Examples:.
 ```ruby
 puts "Adds new line after printing inside quotes"
 print "Does not add new line after printing."
