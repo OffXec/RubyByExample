@@ -1,5 +1,5 @@
 # Ruby by example
----
+
 #### This repo is updated constantly as I go through the courses. 
 I decided to make a little repo with all the notes and examples I've taken when I was learning Ruby from Codecademy.com
 
