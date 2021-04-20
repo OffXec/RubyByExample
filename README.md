@@ -9,7 +9,7 @@ Hope you find it useful!
 
 #### ~ Offxec & Riot Security Team
 ---
-## Examples:.
+## Examples: What you can expect in each file.
 ```ruby
 puts "Adds new line after printing inside quotes"
 print "Does not add new line after printing."
