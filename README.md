@@ -5,7 +5,8 @@ I decided to make a little repo with all the notes and examples I've taken when 
 
 Each section (as taught in order on Codecademy) is named as such.
 
-Hope you find it useful!
+[FULL COURSE](https://www.codecademy.com/courses/learn-ruby)
+
 
 #### ~ Offxec & Riot Security Team
 ---
