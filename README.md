@@ -8,7 +8,7 @@ Each section (as taught in order on Codecademy) is named as such.
 [FULL COURSE](https://www.codecademy.com/courses/learn-ruby)
 
 
-#### ~ Offxec & Riot Security Team
+#### ~ Offxec
 ---
 ## Examples: What you can expect in each file.
 ```ruby
